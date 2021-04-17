@@ -15,7 +15,6 @@
 
 <p align='center'>
     <img src="/client/src/assets/products.png" alt="products"/>
-    <img src="/client/src/assets/history.png" alt="history"/>
     <img src="/client/src/assets/stripe.png" alt="stripe"/>
 </p>  
 
